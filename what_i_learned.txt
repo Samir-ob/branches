@@ -1,0 +1,1 @@
+Ik heb geleerd hoe ik een nieuwe branch moet aanmaken en hoe ik het branch moet samenvoegen met Main

@@ -1,1 +1,2 @@
-Ik heb geleerd hoe ik een nieuwe branch moet aanmaken en hoe ik het branch moet samenvoegen met Main
+wat ik in de afgelopen 3 workshops heb geleerd is hoe Branches werken en hoe je het moet samenvoegen. Ook heb ik geleerd over merge conflicts waarin er conflicten ontstaan in een/meerdere bestand(en) omdat hetzelfde gebied meerdere keren is aangepast. Hierin moet de laatste persoon die zijn branch is aan het samenvoegen het handmatig oplossen.
+

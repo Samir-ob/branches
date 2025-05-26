@@ -1,3 +1,5 @@
+
+ik heb geleerd dat in git je verschillende branches kan maken voor je project. om er zo voor te zorgen dat ongestoord aan je eigen deel kan werken zonder dat je dan problemen veroorzaakt. die je dan als het klaar is weer terug brengt naar de main branche in een keer als het helemaal werkt. maar als je met meerde mensen in het zelfde bestand hebt gewerkt kan dat problemen veroorzaken door een conflict. die je dan handmatig moet oplossen.
 Tijdens de workshops heb ik geleerd wat respositories zijn.
 Repositories zijn mappen warin dde code staat in combinatie met een versiebeheersysteem zoals Git en ook lokaal zoals GitHub
 Ook heb ik geleerd over clonen en hoe dat moet

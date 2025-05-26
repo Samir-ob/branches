@@ -1,0 +1,5 @@
+Tijdens de workshops heb ik geleerd wat respositories zijn.
+Repositories zijn mappen warin dde code staat in combinatie met een versiebeheersysteem zoals Git en ook lokaal zoals GitHub
+Ook heb ik geleerd over clonen en hoe dat moet
+Ik heb geleerd over hoe de omgevingen in Git eruit zien 
+Ook heb ik geleerd over belangrijke Git command's zoals git push of git pull
